@@ -1,0 +1,8 @@
+{
+  "name": "Soft Rose Modern Trade",
+  "description": "Comprehensive management system for sales, inventory, competitor tracking, and human resources for Soft Rose.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
